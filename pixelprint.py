@@ -1,7 +1,7 @@
 """
 -------------------------------------------------------
-run1.py
-Main program for security system
+pixelprint.py
+Program for driving dot matrix
 -------------------------------------------------------
 Author:  William Yang & Marcus Edwards
 Version: 2015-12-20
